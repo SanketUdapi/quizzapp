@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/quizzapp/static/css/main.5a91f7a4.chunk.css",
+    "main.js": "/github.io/quizzapp/static/js/main.37f256cb.chunk.js",
+    "main.js.map": "/github.io/quizzapp/static/js/main.37f256cb.chunk.js.map",
+    "runtime-main.js": "/github.io/quizzapp/static/js/runtime-main.564f2e1c.js",
+    "runtime-main.js.map": "/github.io/quizzapp/static/js/runtime-main.564f2e1c.js.map",
+    "static/js/2.ef6fc40d.chunk.js": "/github.io/quizzapp/static/js/2.ef6fc40d.chunk.js",
+    "static/js/2.ef6fc40d.chunk.js.map": "/github.io/quizzapp/static/js/2.ef6fc40d.chunk.js.map",
+    "index.html": "/github.io/quizzapp/index.html",
+    "static/css/main.5a91f7a4.chunk.css.map": "/github.io/quizzapp/static/css/main.5a91f7a4.chunk.css.map",
+    "static/js/2.ef6fc40d.chunk.js.LICENSE.txt": "/github.io/quizzapp/static/js/2.ef6fc40d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.564f2e1c.js",
+    "static/js/2.ef6fc40d.chunk.js",
+    "static/css/main.5a91f7a4.chunk.css",
+    "static/js/main.37f256cb.chunk.js"
+  ]
+}
